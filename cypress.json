@@ -1,0 +1,14 @@
+{
+    "baseUrl": "http://webdriveruniversity.com",
+    "video": false,
+    "defaultCommandTimeout" : 10000,
+    "chromeWebSecurity":false,
+    "pageLoadTimeout":30000,
+    "ignoreTestFile": "**/other/*",
+
+    "env": {
+        "webdriveruni_homepage":"http://webdriveruniversity.com",
+        "first_name": "Juan Pablo"
+    }
+
+}
